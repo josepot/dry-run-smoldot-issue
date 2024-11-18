@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@polkadot-api/descriptors": "file:.papi/descriptors",
-    "polkadot-api": "1.7.4"
+    "polkadot-api": "1.7.5"
   },
   "prettier": {
     "printWidth": 80,
